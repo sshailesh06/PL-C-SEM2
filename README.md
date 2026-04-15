@@ -1,10 +1,10 @@
 # PL-C-SEM2
-#Course Details
+Course Details
 Course Name: Programming Language - 2: C++ Programming\
-Professor: Aparna Torade\
+Professor: Aparna Torade
 
-#Student Details
+Student Details
 Name: Shailesh Kumar\
 Division: SOC - 16\
-Roll No.: 69\
-Enrollment Number: ADT25SOCB1165\
+Roll No.: 69
+Enrollment Number: ADT25SOCB1165
